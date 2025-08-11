@@ -18,7 +18,7 @@ The goal of this project is to demonstrate the complete RAG workflow, integratin
 - **Python**
 - **LangChain**
 - **Streamlit**
-- **Vector Databases** (e.g., FAISS, Chroma)
+- **Vector Databases** (Chroma)
 - **Embedding Models** (e.g., OpenAI, HuggingFace)
 - **Document Parsers** (e.g., PyPDF2, Unstructured)
 
